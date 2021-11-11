@@ -4,7 +4,7 @@ server:
 cluster:
   nacos:
     node1: 127.0.0.1:8848
-    node2: 10.6.124.134:8848
+    node2: 127.0.0.2:8848
 
 spring:
   application:
